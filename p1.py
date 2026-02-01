@@ -1,1 +1,0 @@
-print("protocore FIX2")
